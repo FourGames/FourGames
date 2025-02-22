@@ -5,5 +5,5 @@
 </p>
 
 > [!NOTE]
-> 1. You can freely use and modify all resources, except for redistribution. External resources may have different licenses.
-> 2. For non-personal use check the video to see where they come from for their specific licensing info.
+> 1. For non-personal use check the video to see where they come from for their specific licensing info.
+> 2. Use and modify all resources, except direct redistribution. External resources may have different licenses.
