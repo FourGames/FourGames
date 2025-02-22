@@ -6,4 +6,4 @@
 
 > [!NOTE]
 > 1. For non-personal use, check the video for specific licensing information on external resources.
-> 2. Use and modify all resources, except direct redistribution. External resources may have different licenses.
+> 2. Use and modify my resources, except direct redistribution. External resources may have different licenses.
