@@ -1,5 +1,8 @@
-<img width="75" src="https://github.com/FourGames/FourGames/blob/main/icon.png" style="vertical-align: middle;"/>
-<h3 style="margin-left: 10px; display: inline; vertical-align: middle;">Resources Four Games</h3>
+<p align="center">
+  <img width="75" src="https://github.com/user-attachments/assets/6eabad91-19f3-4101-bc4c-b8d2c1820c94" />
+  <br />
+  <strong>Resources Four Games</strong>
+</p>
 
 > [!IMPORTANT]
 > 1. ⭐ **Top Right**
