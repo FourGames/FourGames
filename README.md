@@ -6,8 +6,7 @@
 
 > [!IMPORTANT]
 > 1. ⭐ **Top Right**
-> 2. <a href="https://github.com/FourGames/FourGames/tree/main/Resources">Resources</a>
-> 3. `Folder Name = Video Name`
+> 2. <a href="https://github.com/FourGames/FourGames/tree/main/Resources">Resources</a> `Folder Name` = <a href="https://www.youtube.com/@FourGamesDev?sub_confirmation=1">YouTube</a> `Video Name`
 
 > [!CAUTION]
 > 🔥 **Large Repository!** It is recommended to <a href="https://download-directory.github.io/">download</a> only the folder needed
